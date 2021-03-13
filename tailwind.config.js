@@ -7,11 +7,11 @@ module.exports = {
         body:['Spartan']
       },
       colors:{
-        darkmagenta:'#502050',
-        softpink:'#EE68a4',
-        darkgraymagenta:'#937b92',
-        lightgraymagenta:'#f7f2f7',
-        white:'#ffffff',
+        magenta: '#8E398E',
+        softPink: '#EE68A4',
+        darkMagenta: '#937B92',
+        lightMagenta: '#F7F2F7',
+        testimonial: '#521f50',
       },
       backgroundimage:{
         'hero-lg': "url('/images/bg-pattern-top-mobile.svg')",
